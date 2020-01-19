@@ -1,2 +1,2 @@
-FROM dockersamples/static-site 
+FROM ubntu
 ENV AUTAHOR="Takaya Sugiyama"
